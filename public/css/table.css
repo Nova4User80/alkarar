@@ -1,0 +1,14 @@
+#ExcelTable {
+    background-color: #ec5252;
+    color: #ffffff;
+}
+
+
+#ExcelTable tr th {
+    background-color: #d83d3d;
+    border-bottom: 1px solid #000000;
+}
+
+#ExcelTable tr th {
+    background-color: #d8c13d;
+}
